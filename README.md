@@ -1,3 +1,4 @@
+<!-- [Iconos](https://github.com/devicons/devicon/tree/master/icons) -->
 # Hola!
 
 Soy un programador autodidacta y mi pasión es el desarrollo en Python.
@@ -17,7 +18,8 @@ profesional.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <!-- Postman -->
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> <!-- SQLite -->
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> <!-- GIT -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <!-- JS -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
 Si puedo usar python, lo usare.
 
