@@ -1,6 +1,9 @@
 <!-- [Iconos](https://github.com/devicons/devicon/tree/master/icons) -->
 # Hola!
 
+> [!NOTE]
+> If you want to see this in English, please [click here](./en/README.md).
+
 Soy un programador autodidacta y mi pasión es el desarrollo en Python.
 Me encanta programar en Python y explorar sus diversas bibliotecas. A
 lo largo de mi carrera, quiero crear soluciones innovadoras y efcientes
