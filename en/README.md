@@ -5,7 +5,7 @@
 
 I am a student of Software Technology Engineering at the Universidad Autonóma de Nuevo León. I like to learn new things and share what I know.
 
-I consider myself a self-taught person, I like to learn new things and share what I know.
+I consider myself a self-taught person, I like to learn new things/skills.
 
 ## My favorite stack
 
