@@ -5,7 +5,7 @@
 
 Soy un estudiante de Ingeniería en Tecnologías de Software en la Universidad Autonóma de Nuevo León. Me gusta aprender cosas nuevas y compartir lo que sé.
 
-Me considero una persona autodidacta, me gusta aprender cosas nuevas y compartir lo que sé.
+Me considero una persona autodidacta, me gusta aprender cosas nuevas.
 
 ## Mi stack favorito
 
