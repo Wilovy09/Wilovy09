@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Wilovy%2C+full+stack+developer.;Rust+enjoyer.)](https://git.io/typing-svg)
 
 <img src="./assets/images/b2.png" alt="banner" align="right" width="440px">
-
+<br>
 <h3 align=center>Languages</h3>
 <p align=center>
 <a href="https://www.freecodecamp.org/certification/Wilovy09/scientific-computing-with-python-v7" target="_blank">
