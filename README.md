@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Wilovy%2C+full+stack+developer.;Rust+enjoyer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Wilovy%2C+self+taught+developer.;Rust+enjoyer.)](https://git.io/typing-svg)
 
 <img src="./assets/images/b2.png" alt="banner" align="right" width="440px">
 <br>
