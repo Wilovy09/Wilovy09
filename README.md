@@ -1,39 +1,44 @@
-# Hola👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Wilovy%2C+full+stack+developer.;Rust+enjoyer.)](https://git.io/typing-svg)
 
-> [!NOTE]
-> If you want to see this in English, please [click here](./en/README.md).
+<img src="./assets/images/b2.png" alt="banner" align="right" width="440px">
+<br/>
+<h3 align=center>Languages</h3>
+<p align=center>
+<a href="https://www.freecodecamp.org/certification/Wilovy09/scientific-computing-with-python-v7" target="_blank">
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+</a>
+<img width="42" src="https://img.icons8.com/ios-filled/384/498fe1/typescript.png" alt="javascript"/>
+<img width="42" src="https://img.icons8.com/ios-filled/384/F34C27/git.png" alt="git"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/>
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=qULYrKvr-AFH&format=png&color=0C4B33" alt="django"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/adonis-js.png" alt="adonis-js"/>
+<img width="42" src="https://img.icons8.com/ios-filled/384/498fe1/golang.png" alt="git"/>
+</p>
+<br/>
 
-Soy un estudiante de Ingeniería en Tecnologías de Software en la Universidad Autonóma de Nuevo León. Me gusta aprender cosas nuevas y compartir lo que sé.
+```rust
+use actix_web::{web, get, App, HttpServer, Responder, HttpResponse};
 
-Me considero una persona autodidacta, me gusta aprender cosas nuevas.
+#[get("/")]
+async fn hello_world() -> HttpResponse {
+    HttpResponse::Ok().json("Hello, World")
+}
 
-## Mi stack favorito
+#[actix_web::main]
+async fn main() -> std::io::Result<()> {
+    HttpServer::new(|| {
+        App::new()
+            .service(hello_world)
+    })
+    .bind("127.0.0.1:8080")?
+    .run()
+    .await
+}
 
-### Frontend
+```
 
-![Vue.js](./icons/vue.svg)
-![Svelte](./icons/svelte.svg)
-
-### Autenticación
-
-![Firebase](./icons/firebase.svg)
-![Supabase](./icons/supabase.svg)
-
-### Estilos
-
-![TailwindCSS](./icons/tailwindcss.svg)
-
-### Backend
-
-![Express](./icons/express.svg)
-![Prisma](./icons/prisma.svg)
-![Postgress](./icons/postgress.svg)
-![SQLite](./icons/sqlite.svg)
-
-## Actualmente aprendiendo
-
-![Golang](./icons/go.svg)
-![Japa.dev](./icons/japa.png)
-![Firebase](./icons/firebase.svg)
-
-> Somos la 3era o 2da lengua más hablada en el mundo (dependiendo de la fuente), merecemos tener más contenido en nuestro idioma.
+<br/>
+<h3 align=center>Currently learning</h3>
+<div align=center>
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=U41Than0pWOW&format=png&color=EF4823" alt="external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo"/>
+</div>
