@@ -2,16 +2,15 @@
 
 <img src="./assets/images/b3.png" alt="banner" align="right" width="440px">
 <br>
-<h3 align=center>Languages</h3>
+<h3 align=center>Technologies</h3>
 <p align=center>
 <a href="https://www.freecodecamp.org/certification/Wilovy09/scientific-computing-with-python-v7" target="_blank">
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 </a>
 <img width="42" src="https://img.icons8.com/ios-filled/384/498fe1/typescript.png" alt="javascript"/>
-<img width="42" src="https://img.icons8.com/ios-filled/384/F34C27/git.png" alt="git"/>
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=U41Than0pWOW&format=png&color=EF4823" alt="external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/adonis-js.png" alt="adonis-js"/>
-<img width="42" src="https://img.icons8.com/ios-filled/384/498fe1/golang.png" alt="git"/>
+<!--<img width="42" src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000" alt="go"/>-->
 </p>
 <br/>
 
@@ -40,7 +39,6 @@ async fn main() -> std::io::Result<()> {
 <br/>
 <h3 align=center>Currently learning</h3>
 <div align=center>
-<img width="48" height="48" src="https://img.icons8.com/?size=100&id=U41Than0pWOW&format=png&color=EF4823" alt="external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo"/>
-<img width="48" height="48" src="https://img.icons8.com/?size=100&id=viH7JJy51bHj&format=png&color=58C4DC" alt="react"/>
-<img width="48" height="48" src="https://img.icons8.com/?size=100&id=7ImWFDcPfSlz&format=png&color=FFFFFF" alt="react-native expo"/>
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=55205&format=png&color=5B3BCF" alt="csharp logo"/>
+<img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="csharp logo"/>
 </div>
