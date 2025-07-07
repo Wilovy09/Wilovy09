@@ -42,6 +42,6 @@ async fn main() -> std::io::Result<()> {
 <h3 align=center>Currently learning</h3>
 <div align=center>
 How to start a business and actually survive the process.
-    <br/>
-    @nexorbs
+<br/>
+<a href="https://github.com/nexorbs" target="_blank">@nexorbs</a>
 </div>
