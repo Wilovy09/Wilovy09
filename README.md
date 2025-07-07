@@ -10,6 +10,8 @@
 <img width="42" src="https://img.icons8.com/ios-filled/384/498fe1/typescript.png" alt="javascript"/>
 <img width="48" height="48" src="https://img.icons8.com/?size=100&id=U41Than0pWOW&format=png&color=EF4823" alt="external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/>
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=55205&format=png&color=5B3BCF" alt="csharp logo"/>
+<img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="csharp logo"/>
 <!--<img width="42" src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000" alt="go"/>-->
 </p>
 <br/>
@@ -39,6 +41,7 @@ async fn main() -> std::io::Result<()> {
 <br/>
 <h3 align=center>Currently learning</h3>
 <div align=center>
-<img width="48" height="48" src="https://img.icons8.com/?size=100&id=55205&format=png&color=5B3BCF" alt="csharp logo"/>
-<img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="csharp logo"/>
+How to start a business and actually survive the process.
+    <br/>
+    @nexorbs
 </div>
